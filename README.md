@@ -4,7 +4,7 @@
 
 <h1>javaproject</h1>
 
-[日本電子専門学校へリンク](https://www.jec.ac.jp)
+[日本電子専門学校へリンク](https://www.jec.ac.jp)　　
 
 *ここがemタグで強調されます*  
 _ここがemタグで強調されます_  
